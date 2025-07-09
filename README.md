@@ -32,7 +32,7 @@ A simple QR Code Scanner web application that utilizes the user's webcam to scan
 
 ```bash
 git clone https://github.com/raflyritonga/qrcode-scanner.git
-cd qr-code-scanner
+cd qrcode-scanner
 ```
 
 ### 2. Install Dependencies
