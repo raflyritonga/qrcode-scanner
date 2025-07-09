@@ -48,3 +48,5 @@ npm run dev
 ```
 
 ### 4. Open the http://localhost:5173
+
+### 5. For Testing, open folder `qrcodes` to find the sample qrcodes
